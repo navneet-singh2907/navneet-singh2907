@@ -28,6 +28,7 @@ DevOps & Deployment
 Git · GitHub · CI/CD · Render · Vercel
 
 🚀 Featured Projects
+
 🔹 RAG-Based AI Teaching Assistant
 
 Python · LangChain · Whisper · OpenAI API
